@@ -48,7 +48,4 @@ public List<Doctor> getAllMovie(){
 	return list;
 	
 }
-	
-	
-
 }
