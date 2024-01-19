@@ -19,7 +19,7 @@ public class Doctor {
 	private int dSalary;
 	public Doctor() {
 		super();
-		// TODO Auto-generated constructor stub
+	
 	}
 	public Doctor(int dId, String dName, String dDept, int dSalary) {
 		super();
